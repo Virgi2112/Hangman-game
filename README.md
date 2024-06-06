@@ -1,2 +1,2 @@
 # Hangman-game
-El juego del ahorcadp
+El juego del ahorcado hecho con python
